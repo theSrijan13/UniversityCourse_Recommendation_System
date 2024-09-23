@@ -1,0 +1,231 @@
+[
+    {
+        "course_id": "CS101",
+        "course_name": "Introduction to Computer Science",
+        "time_blocks": [
+            "A",
+            "B"
+        ],
+        "prerequisites": [
+            "MATH101"
+        ],
+        "description": "An introduction to the fundamentals of computer science.",
+        "department": "Computer Science",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Smith"
+    },
+    {
+        "course_id": "CS102",
+        "course_name": "Data Structures",
+        "time_blocks": [
+            "B",
+            "C"
+        ],
+        "prerequisites": [
+            "CS101"
+        ],
+        "description": "Covers fundamental data structures and their algorithms.",
+        "department": "Computer Science",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Johnson"
+    },
+    {
+        "course_id": "CS103",
+        "course_name": "Algorithms",
+        "time_blocks": [
+            "C",
+            "D"
+        ],
+        "prerequisites": [
+            "CS102"
+        ],
+        "description": "An introduction to algorithm design and analysis.",
+        "department": "Computer Science",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Lee"
+    },
+    {
+        "course_id": "BUS101",
+        "course_name": "Introduction to Business",
+        "time_blocks": [
+            "A",
+            "C"
+        ],
+        "prerequisites": [],
+        "description": "Foundational concepts in business and management.",
+        "department": "Business",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Martinez"
+    },
+    {
+        "course_id": "BUS102",
+        "course_name": "Principles of Marketing",
+        "time_blocks": [
+            "B",
+            "D"
+        ],
+        "prerequisites": [
+            "BUS101"
+        ],
+        "description": "Exploration of marketing strategies and consumer behavior.",
+        "department": "Business",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Robinson"
+    },
+    {
+        "course_id": "ECON101",
+        "course_name": "Principles of Economics",
+        "time_blocks": [
+            "A",
+            "B"
+        ],
+        "prerequisites": [],
+        "description": "Introduction to micro and macroeconomic principles.",
+        "department": "Economics",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Walker"
+    },
+    {
+        "course_id": "MECH101",
+        "course_name": "Introduction to Mechanical Engineering",
+        "time_blocks": [
+            "A",
+            "D"
+        ],
+        "prerequisites": [
+            "MATH101",
+            "PHYS101"
+        ],
+        "description": "Fundamentals of mechanical engineering design and analysis.",
+        "department": "Engineering",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Anderson"
+    },
+    {
+        "course_id": "MECH102",
+        "course_name": "Thermodynamics",
+        "time_blocks": [
+            "B",
+            "C"
+        ],
+        "prerequisites": [
+            "MECH101"
+        ],
+        "description": "Study of energy systems, thermodynamics laws, and applications.",
+        "department": "Engineering",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Hernandez"
+    },
+    {
+        "course_id": "BIOL101",
+        "course_name": "General Biology I",
+        "time_blocks": [
+            "A",
+            "B"
+        ],
+        "prerequisites": [],
+        "description": "An overview of cellular structure, function, and genetics.",
+        "department": "Biology",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Davis"
+    },
+    {
+        "course_id": "BIOL102",
+        "course_name": "General Biology II",
+        "time_blocks": [
+            "C",
+            "D"
+        ],
+        "prerequisites": [
+            "BIOL101"
+        ],
+        "description": "Continuation of General Biology I, focusing on ecology and evolution.",
+        "department": "Biology",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Miller"
+    },
+    {
+        "course_id": "CHEM101",
+        "course_name": "General Chemistry I",
+        "time_blocks": [
+            "A",
+            "B"
+        ],
+        "prerequisites": [],
+        "description": "Introduction to the principles of chemistry, including atomic structure, chemical reactions, and stoichiometry.",
+        "department": "Chemistry",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Williams"
+    },
+    {
+        "course_id": "CHEM102",
+        "course_name": "General Chemistry II",
+        "time_blocks": [
+            "C",
+            "D"
+        ],
+        "prerequisites": [
+            "CHEM101"
+        ],
+        "description": "Continuation of General Chemistry I, covering topics in thermodynamics, kinetics, and equilibrium.",
+        "department": "Chemistry",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Brown"
+    },
+    {
+        "course_id": "PHYS101",
+        "course_name": "General Physics I",
+        "time_blocks": [
+            "A",
+            "C"
+        ],
+        "prerequisites": [
+            "MATH101"
+        ],
+        "description": "Covers the fundamentals of mechanics, wave motion, and heat.",
+        "department": "Physics",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Jones"
+    },
+    {
+        "course_id": "MATH101",
+        "course_name": "Calculus I",
+        "time_blocks": [
+            "A",
+            "C"
+        ],
+        "prerequisites": [],
+        "description": "An introduction to calculus, covering limits, derivatives, and integrals of functions of one variable.",
+        "department": "Mathematics",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Wilson"
+    },
+    {
+        "course_id": "ENGL101",
+        "course_name": "English Composition I",
+        "time_blocks": [
+            "A",
+            "B"
+        ],
+        "prerequisites": [],
+        "description": "Introduction to academic writing, focusing on developing arguments, conducting research, and writing clear, persuasive essays.",
+        "department": "English",
+        "credits": 3,
+        "level": "Undergraduate",
+        "instructor": "Prof. Thompson"
+    }
+]

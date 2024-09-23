@@ -1,0 +1,57 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Alex Johnson",
+        "majors": [
+            "Computer Science"
+        ],
+        "completed_courses": [
+            "MATH101",
+            "ENGL101"
+        ],
+        "level": "Undergraduate"
+    },
+    {
+        "student_id": "S002",
+        "name": "Maria Rodriguez",
+        "majors": [
+            "Biology",
+            "Chemistry"
+        ],
+        "completed_courses": [
+            "BIOL101",
+            "CHEM101",
+            "MATH101",
+            "ENGL101"
+        ],
+        "level": "Undergraduate"
+    },
+    {
+        "student_id": "S003",
+        "name": "David Smith",
+        "majors": [
+            "Mechanical Engineering"
+        ],
+        "completed_courses": [
+            "MECH101",
+            "MATH101",
+            "PHYS101",
+            "ENGL101"
+        ],
+        "level": "Undergraduate"
+    },
+    {
+        "student_id": "S004",
+        "name": "Emily White",
+        "majors": [
+            "Business Administration"
+        ],
+        "completed_courses": [
+            "BUS101",
+            "ECON101",
+            "MATH101",
+            "ENGL101"
+        ],
+        "level": "Undergraduate"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Computer Science",
+        "required_courses": [
+            "MATH101",
+            "CS101",
+            "CS102",
+            "CS103",
+            "ENGL101"
+        ]
+    },
+    {
+        "name": "Business Administration",
+        "required_courses": [
+            "BUS101",
+            "BUS102",
+            "ECON101",
+            "MATH101",
+            "ENGL101",
+            "COMM101"
+        ]
+    },
+    {
+        "name": "Mechanical Engineering",
+        "required_courses": [
+            "MECH101",
+            "MECH102",
+            "MATH101",
+            "PHYS101",
+            "CHEM101",
+            "ENGR101",
+            "ENGL101"
+        ]
+    },
+    {
+        "name": "Biology",
+        "required_courses": [
+            "BIOL101",
+            "BIOL102",
+            "CHEM101",
+            "CHEM102",
+            "MATH101",
+            "PHYS101",
+            "ENGL101"
+        ]
+    }
+]
